@@ -1,0 +1,1 @@
+<input {{$attributes->merge(['type' => 'text', 'placeholder'=>'Message']) }} />
